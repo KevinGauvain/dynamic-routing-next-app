@@ -1,5 +1,4 @@
 import Head from "next/head";
-// import Image from "next/image"; https://api.chucknorris.io/jokes/categories
 import Link from "next/link";
 import styles from "../styles/Home.module.css";
 import Layout from "./layout";
